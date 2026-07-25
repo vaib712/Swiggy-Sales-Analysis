@@ -1,2 +1,2 @@
 # Swiggy-Sales-Analysis
-This is my first Data analysis project.
+This is my first Data Analysis project.
